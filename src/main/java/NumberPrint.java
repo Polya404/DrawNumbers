@@ -91,7 +91,7 @@ public class NumberPrint {
                     res[i] = nums.get("9");
                     break;
                 default:
-                    System.out.println("Enter only numbers");
+                    System.out.println("Enter only numbers separated by space");
             }
         }
         try {
